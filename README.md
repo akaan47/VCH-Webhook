@@ -14,38 +14,37 @@ Un petit outil Python en ligne de commande pour interagir rapidement avec des we
 
 📦 Installation
 
-Clone ce repo :
+> Clone ce repo :
+```
 git clone https://github.com/akaan47/VCH-Webhook.git
-cd VCH-Webhook 
+cd VCH-Webhook
+```
 
-Installe les dépendances nécessaires :
-
+> Installe les dépendances nécessaires :
+```
 pip install -r requirements.txt
-
-Fichier requirements.txt à créer avec :
-
-requests
-colorama
-dhooks
+```
 
 ▶️ Utilisation
 
-Lance simplement le script :
-
+> Lance simplement le script :
+```
 python main.py
+```
 
-Tu verras ce menu :
-
+> Tu verras ce menu :
+```
 Webhook Tools
 
 [0] Webhook Sender 
 [1] Webhook Deleter 
 [2] Webhook Spammer 
-[3] Webhook Renamer 
+[3] Webhook Renamer
+```
 
 Suis les instructions affichées pour utiliser l’outil selon ton besoin.
 
-⚠️ Avertissement
+# ⚠️ Avertissement
 
 Ce projet est fourni à des fins éducatives uniquement. L’utilisation abusive (ex : spam) de webhooks Discord est interdite par leurs conditions d’utilisation. Utilise ce script de façon responsable.
 
